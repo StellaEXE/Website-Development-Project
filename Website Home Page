@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<style>
+body {background-color: lavender;}
+h1   {color: indigo;}
+h2   {color: indigo;}  
+p    {color: indigo;}
+h1 {text-align: center;}   
+h2 {text-align: center;}
+p {text-align: center;}  
+body{
+  height: 5250px;
+}
+body {
+  font-family: 'Courier New', monospace;
+}  
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.search_bar input[type="text"] {
+    position:left;
+    left:10%;
+    top:25%;
+    width:15%;
+    background-color:white;
+    color:grey;
+    font-family: 'Courier New', monospace;  
+}
+.search_bar {
+  text-align: right;
+}
+h2.one{
+  word-spacing: 100px;
+}
+a:link {
+  color: indigo;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: DarkViolet;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: DarkMagenta;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: DeepPink;
+  background-color: transparent;
+  text-decoration: underline;
+}  
+
+</style>
+</head>
+<body>
+  
+<img src=" https://cdn-icons-png.freepik.com/512/18266/18266825.png" alt="Page logo" style="width:15%;">
+  
+<div class="header">
+    <div class="search_bar">
+        <input type="text" name="search" value="search">
+</div>
+ 
+  <h2 class="one"> <a href="">Home</a> <a href="">Portfolio</a> <a href="">About</a> <a href="">Contact</a> <a href="">Accounts</a></h2>
+  
+<img src=" https://img.freepik.com/free-photo/galaxy-planets-digital-art_23-2151727729.jpg?semt=ais_hybrid&w=740" alt="Header image" style="width:70%;">
+
+ 
+  <h1><i>Welcome to my site!</i></h1>
+  <h2>Here you'll find all sorts of pieces of digital art I've created in my life, past and present!</h2>
+  
+<img src="https://64.media.tumblr.com/8354ecbadc5d0114d6789ce6f7d3c4ed/2feb9dc48456c15e-fd/s500x750/e4b3c7f191ceb9911ae89c4980e378ce4c981516.png" alt="Flower divider" style="width:65%;">   
+
+<a href="">  
+<img src="https://static.vecteezy.com/system/resources/previews/005/570/696/non_2x/graphic-designer-digital-drawing-tool-top-view-flat-design-illustration-vector.jpg" alt="Portfolio image link" width="510" height="500">
+</a>  
+  <h1><i><a href="">Portfolio</a></i></h1>
+  <h2>Here is where all of my digital works are housed!</h2>
+  
+<img src="https://64.media.tumblr.com/8354ecbadc5d0114d6789ce6f7d3c4ed/2feb9dc48456c15e-fd/s500x750/e4b3c7f191ceb9911ae89c4980e378ce4c981516.png" alt="Flower divider" style="width:65%;">  
+
+<a href="">  
+<img src="https://media.istockphoto.com/id/615104014/vector/pastel-goth-crescent-with-stars-and-roses-greeting-card.jpg?s=612x612&w=0&k=20&c=xSz35H2Oy9tRjsjNR3wghSLueJWuYc0jAD-fH-WkQGM=" alt="About image link" width="510" height="500">
+</a>  
+  <h1><i><a href="">About Me</a></i></h1>
+  <h2>Learn all about the artist behind the works!</h2>  
+ 
+<img src="https://64.media.tumblr.com/8354ecbadc5d0114d6789ce6f7d3c4ed/2feb9dc48456c15e-fd/s500x750/e4b3c7f191ceb9911ae89c4980e378ce4c981516.png" alt="Flower divider" style="width:65%;">  
+  
+<a href="">  
+<img src="https://img.freepik.com/free-vector/hand-drawn-retro-computer-windows-elements_52683-114344.jpg?semt=ais_hybrid&w=740" alt="Contacts image link" width="510" height="500">
+  </a>
+  <h1><i><a href="">Contacts</a></i></h1>
+  <h2>Feel free to send me a message!</h2>
+
+<img src="https://64.media.tumblr.com/8354ecbadc5d0114d6789ce6f7d3c4ed/2feb9dc48456c15e-fd/s500x750/e4b3c7f191ceb9911ae89c4980e378ce4c981516.png" alt="Flower divider" style="width:65%;">
+
+<a href="">  
+<img src="https://static.vecteezy.com/system/resources/previews/006/103/512/non_2x/metaverse-purple-technology-background-template-vector.jpg" alt="Accounts image link" width="510" height="500">  
+  </a>
+  <h1><i><a href="">Accounts</a></i></h1>
+  <h2>All my other accounts that house my works!</h2>
+  
+<img src="https://64.media.tumblr.com/8354ecbadc5d0114d6789ce6f7d3c4ed/2feb9dc48456c15e-fd/s500x750/e4b3c7f191ceb9911ae89c4980e378ce4c981516.png" alt="Flower divider" style="width:65%;">  
+  
+  <h2><i>Enjoy your stay~!</i></h2>  
+  
+</body>
+</html>
