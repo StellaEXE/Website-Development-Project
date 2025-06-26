@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<style>
+body {background-color: lavender;}
+h1   {color: indigo;}
+h2   {color: indigo;}  
+p    {color: indigo;}
+h1 {text-align: center;}   
+h2 {text-align: center;}
+p {text-align: center;}  
+body{
+  height: 1350px;
+}
+body {
+  font-family: 'Courier New', monospace;
+}  
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.search_bar input[type="text"] {
+    position:left;
+    left:10%;
+    top:25%;
+    width:15%;
+    background-color:white;
+    color:grey;
+    font-family: 'Courier New', monospace;  
+}
+.search_bar {
+  text-align: right;
+}
+h2.one{
+  word-spacing: 100px;
+}
+a:link {
+  color: indigo;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: DarkViolet;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: DarkMagenta;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: DeepPink;
+  background-color: transparent;
+  text-decoration: underline;
+}  
+
+</style>
+</head>
+<body>
+  
+<img src=" https://cdn-icons-png.freepik.com/512/18266/18266825.png" alt="Page logo" style="width:15%;">
+  
+<div class="header">
+    <div class="search_bar">
+        <input type="text" name="search" value="search">
+</div>
+ 
+  <h2 class="one"> <a href="">Home</a> <a href="">Portfolio</a> <a href="">About</a> <a href="">Contact</a> <a href="">Accounts</a></h2>
+
+<img src="https://64.media.tumblr.com/8354ecbadc5d0114d6789ce6f7d3c4ed/2feb9dc48456c15e-fd/s500x750/e4b3c7f191ceb9911ae89c4980e378ce4c981516.png" alt="Flower divider" style="width:65%;">  
+
+  <h1>About Me!</h1>
+  <h2>My name is Isabelle Peterson, though I prefer to go by Stellaluna as my online alias</h2>
+  <h2>Ever since I was a child, I've had a fascination with art. This love of art stems from the fact that my father is a graphic designer, and seeing all of the designs he made in his career is what inspired me to start making art of my own. I first started creating digital  art at the age of 12, and I first started uploading my artwork on the site called DeviantArt, which is the site I first started my personal career as a digital artist. After a few years, I expanded my online presence by starting new accounts across different platforms, such as Tumblr and Bluesky. I've now begun my studies towards Web Design to learn how to make visually appealing websites that are engaging for users!</h2>
+  <img src="https://64.media.tumblr.com/8354ecbadc5d0114d6789ce6f7d3c4ed/2feb9dc48456c15e-fd/s500x750/e4b3c7f191ceb9911ae89c4980e378ce4c981516.png" alt="Flower divider" style="width:65%;">  
+  
+  <h2><i>Enjoy your stay~!</i></h2>
+  
+</body>
+</html>
